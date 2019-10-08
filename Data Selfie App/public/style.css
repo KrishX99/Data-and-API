@@ -1,0 +1,25 @@
+body{
+  color:#fff;
+  background: url('https://www.gadberrygroup.com/wp-content/uploads/2016/07/sunset-blurred-background-freebie.jpg') ;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 1rem;
+  font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif',
+}
+
+.container{
+text-align: center;
+}
+input{
+  border-radius: 0.7rem;
+  font-size:2rem;
+  text-align:center;
+}
+
+h1{
+  font-size: 3rem;
+}
+p{
+  font-size:1rem;
+}
